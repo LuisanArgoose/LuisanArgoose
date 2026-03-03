@@ -11,8 +11,7 @@
 ## Cвежие проекты
 
 ### Тренажёр памяти Braintrain (Back + Front)
-  - [braintrain.backend](https://github.com/LuisanArgoose/braintrain.backend) - Бэкенд тренажёра памяти
-  - [braintrain.frontend](https://github.com/LuisanArgoose/braintrain.frontend) - Фронтенд тренажёра памяти
+  - [SshTunnel](https://github.com/LuisanArgoose/SshTunnel) - Софт для локальной отладки микросервисов
   
 ## Очень старые проекты
   - [ShopProject](https://github.com/LuisanArgoose/ShopProject) - ИС для составления и контроля плана продаж магазина одежды C# WPF ASP.NET Core
